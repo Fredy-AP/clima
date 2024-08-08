@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# React specific
+# Ignore the build folder (if you use create-react-app)
+build/
+
+# Next.js specific
+.next/
+out/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Coverage directory used by testing tools
+coverage/
+
+# Yarn
+.yarn/
+.pnp.*
